@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333341223892",
+    "firebase_url": "https://safetycam-md97.firebaseio.com",
+    "project_id": "safetycam-md97",
+    "storage_bucket": "safetycam-md97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333341223892:android:f0020a495f29bbe9",
+        "android_client_info": {
+          "package_name": "com.example.securitycam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333341223892-ml1u4o4b8bcqa1526sphgcvqslfrnp9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.securitycam",
+            "certificate_hash": "358e8e407b4dce37204892997f622c2c7d5f6c54"
+          }
+        },
+        {
+          "client_id": "333341223892-tm5a3qp923j7n47djkrup48j3314f2oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo0LVGWnt_tPAmxCRBYGIpMFI_HHPcYMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333341223892-tm5a3qp923j7n47djkrup48j3314f2oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
